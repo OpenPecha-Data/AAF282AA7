@@ -1,0 +1,28 @@
+segment_sources:
+  PF6C8FC88:
+    type: origin_type
+    relation: translation
+    language: en
+  PE3B664B2:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  50a824253a084dbf87248c9e08773f01:
+    PF6C8FC88: 8a6780b5bed3468eb9c20fcdd280853c
+    PE3B664B2: d52d54996b0c4a9da7b9e3987db626db
+  a342c380cd2146d4b34012eabc3c5621:
+    PF6C8FC88: 847a729ef4d248b4a9d3b6a6cada6ae6
+    PE3B664B2: 06c79ebc9f73435095e275de688bc11a
+  054673ffce534bc3b8ca62d6737390ab:
+    PF6C8FC88: 103bb19298a1437c83c9854268a3e64a
+    PE3B664B2: 5abcda486398415e92fae84ca0f78a53
+  9a6e835e69ed4f2fb4d0606075f3736e:
+    PF6C8FC88: b3f4322593c145298ea4a85cfbb3959f
+    PE3B664B2: 5f5d9e26bcd547f8aa8cf31ebfb5f356
+  2fb7460621fe4084ad4dbcf76d96b62b:
+    PF6C8FC88: 9df9bf5a011e4b449944a704fe0b8a39
+    PE3B664B2: 98c70172799841588c9e6e82e8f51799
+  cd10bf6897264438a37c945e12d62a4c:
+    PF6C8FC88: 0fe179571f274e93ba6fe45479716889
+    PE3B664B2: 89d72623534f4702aba70cba06fbceab
